@@ -18,7 +18,6 @@ public class GameManager : MonoBehaviour
     UIManager uim;
     [SerializeField] TextMeshProUGUI levelTxt;
     Transform bigCircleCollider;
-    bool isUpdated;
 
     void Start()
     {
